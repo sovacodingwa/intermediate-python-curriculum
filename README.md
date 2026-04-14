@@ -1,4 +1,4 @@
-# Sova Coding Python Trimester 2 Curriculum
+# Sova Coding Intermediate Python Curriculum
 
 ## Overview
 This curriculum builds on Trimester 1 and focuses on writing cleaner programs, using more data structures, and creating bigger projects.
